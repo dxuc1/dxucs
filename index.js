@@ -26,7 +26,7 @@ client.on('ready', async () => {
     .setApplicationId('1203009759909908581')
     .setType('STREAMING')
     .setURL('https://www.youtube.com/watch?v=L2no2UFNh9c') //Must be a youtube video link 
-    .setState('/intricate')
+    .setState(' ')
     .setName(' ')
     .setDetails(' ')
 
